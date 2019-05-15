@@ -1,0 +1,3 @@
+Today is Wednesday May 15th 2019.
+Learning Git/GitHub
+Check work list after class.
